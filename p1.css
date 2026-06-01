@@ -1,0 +1,38 @@
+body{
+background-color: black;
+  }
+
+.primeralinea {
+  display: flex;
+  flex-direction: row;
+  background-color: aliceblue;
+}
+.nombre{
+  margin-left:  880px;
+  }
+
+.busqueda{
+  margin-left:  420px;
+  }
+
+
+.stuxen {
+  font-family: Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  color: #888;
+  font-size: 14px;
+}
+
+.tipo{
+  display: none;
+}
+
+.Moneda{
+    display: flex;
+    align-items: center;
+    
+}
+.menu{
+  display: block;
+  }
